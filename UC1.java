@@ -16,3 +16,4 @@ public class TrainConsistManagementApp {
         System.out.println("Initial bogie count: " + trainConsist.size());
     }
 }
+.
