@@ -25,3 +25,4 @@ public class TrainConsistManagementApp {
         System.out.println(passengerBogies);
     }
 }
+//UC2
